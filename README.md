@@ -1,2 +1,5 @@
 # Hello_World
-Just another repository
+
+Hi, 
+
+This is for a Capstone class Lab.
